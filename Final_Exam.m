@@ -96,6 +96,11 @@ axis([-100000 100000 -100 0])
 % degrees. Make sure that ALL axes have proper values, limits and labels.
 % Remember that the unwrap command has input and output in radians.
 %
+% Use Chizever's MakeFIR function
+% MakeFIR(FilterType, taps, Cutoff, nifft, TwoSided, WinType, WinParm)
+
+% MakeFIR(lowpass, taps, Cutoff, nifft, TwoSided, WinType, WinParm)
+MakeFIR(FilterType, taps, Cutoff, nifft, TwoSided, WinType, WinParm)
 %%
 % Problem 4: [15 points] Apply your FIR filter in the frequency domain and
 % plot the magnitude of your results as 20*log10(abs(…)). Make sure that 
@@ -122,5 +127,6 @@ axis([-100000 100000 -100 0])
 % 20*log10(abs(…)) and on a separate figure show the phase. 
 % Make sure that ALL axes have proper values, limits and labels.
 %
+
 
 
