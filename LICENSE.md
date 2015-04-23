@@ -18,3 +18,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This software is not to be used for academic use at Wright State University.
+Any use of this software for any course at Wright State University is a direct
+violation of the Wright State academic integrity policy.
+http://www.wright.edu/faculty-handbook/teaching/academic-integrity
+
+The only exception to this license is that full rights and use are reserved to
+the original creator: Jeremy K Hong. 
